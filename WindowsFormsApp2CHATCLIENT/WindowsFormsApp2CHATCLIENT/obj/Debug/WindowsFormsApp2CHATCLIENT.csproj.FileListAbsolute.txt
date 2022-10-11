@@ -1,0 +1,9 @@
+C:\Users\Luka\source\repos\WindowsFormsApp2CHATCLIENT\WindowsFormsApp2CHATCLIENT\bin\Debug\WindowsFormsApp2CHATCLIENT.exe.config
+C:\Users\Luka\source\repos\WindowsFormsApp2CHATCLIENT\WindowsFormsApp2CHATCLIENT\bin\Debug\WindowsFormsApp2CHATCLIENT.exe
+C:\Users\Luka\source\repos\WindowsFormsApp2CHATCLIENT\WindowsFormsApp2CHATCLIENT\bin\Debug\WindowsFormsApp2CHATCLIENT.pdb
+C:\Users\Luka\source\repos\WindowsFormsApp2CHATCLIENT\WindowsFormsApp2CHATCLIENT\obj\Debug\WindowsFormsApp2CHATCLIENT.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\WindowsFormsApp2CHATCLIENT\WindowsFormsApp2CHATCLIENT\obj\Debug\WindowsFormsApp2CHATCLIENT.Form1.resources
+C:\Users\Luka\source\repos\WindowsFormsApp2CHATCLIENT\WindowsFormsApp2CHATCLIENT\obj\Debug\WindowsFormsApp2CHATCLIENT.Properties.Resources.resources
+C:\Users\Luka\source\repos\WindowsFormsApp2CHATCLIENT\WindowsFormsApp2CHATCLIENT\obj\Debug\WindowsFormsApp2CHATCLIENT.csproj.GenerateResource.cache
+C:\Users\Luka\source\repos\WindowsFormsApp2CHATCLIENT\WindowsFormsApp2CHATCLIENT\obj\Debug\WindowsFormsApp2CHATCLIENT.exe
+C:\Users\Luka\source\repos\WindowsFormsApp2CHATCLIENT\WindowsFormsApp2CHATCLIENT\obj\Debug\WindowsFormsApp2CHATCLIENT.pdb
